@@ -1,3 +1,5 @@
+<h1>ToyCarMania</h1>
+
 This this the game ToyCarMania created by Erik Ståhl for the course TDDD57
 
 **The Game**
