@@ -31,3 +31,11 @@ the second script part of the truck is the player collision. This detects whenev
 It also calls gameOver whenever the time runs out.
 
 Apart from this there are small scripts responsible for exploding the grenade, removing objects after a certain time etc. Som scripts are old and not used, placed in the oldScripts folder.
+
+**Demo**
+  ![pic1](https://github.com/StahlErik/ToyCarMania/blob/master/pictures/Screenshot_20190314-104952.png)
+  ![pic2](https://github.com/StahlErik/ToyCarMania/blob/master/pictures/Screenshot_20190314-105005.png)
+  ![pic3](https://github.com/StahlErik/ToyCarMania/blob/master/pictures/Screenshot_20190314-105032.png)
+  ![pic4](https://github.com/StahlErik/ToyCarMania/blob/master/pictures/Screenshot_20190314-105041.png)
+  ![pic5](https://github.com/StahlErik/ToyCarMania/blob/master/pictures/Screenshot_20190314-105113.png)
+      
