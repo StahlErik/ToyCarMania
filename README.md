@@ -1,6 +1,7 @@
-This this the game ToyCarMania created by Erik Ståhl for the course TDDD57
+This this the game ToyCarMania created by Erik StÃ¥hl for the course TDDD57
 
 **The Game**
+
 ToyCarMania is a fun little game where a toy car arena is placed inside your own home.
 The player starts by mapping out a playing area with their camera, calculated by ARCore. When the area is big enough for you, you choose it and start playing.
 Walls and an invicible ground is place inside your own home, and a small toy truck is placed in the middle of the arena.
@@ -13,6 +14,7 @@ tough luck!
 ToyCarMania is a small, hectic and just plain fun game.
 
 **The Code**
+
 All main code is located within Assets/Game. Here you will find all scripts and gameobjects. The other folders are the ARCore package and imported prefabs.
 The game code is based around 4 main objects. 
 The first is the plane visualiser. his object uses the standard google arcore visualiser together with my script which highlights the borders aswell
